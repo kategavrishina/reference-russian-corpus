@@ -3,5 +3,6 @@
 
 
 Данные FrameBank (<https://github.com/olesar/framebank>) + SyntaxNet в открытом доступе: <http://nlp.isa.ru/framebank_parser/> 
+
 Данные корпуса SynTagRus в открытом доступе: <https://github.com/UniversalDependencies/UD_Russian-SynTagRus>
 
