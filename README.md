@@ -2,10 +2,10 @@
 Код и данные для создания эталонного корпуса русского языка для универсального семантического парсинга в рамках курсовой работы
 _____
 
-Код: <https://github.com/kategavrishina/reference-russian-corpus/predict_roles.ipynb>
+Код: <https://github.com/kategavrishina/reference-russian-corpus/blob/main/predict_roles.ipynb>
 (запускается из среды Google Colab по состоянию на октябрь, 2020 года)
 
-"Золотой стандарт": <https://github.com/kategavrishina/reference-russian-corpus/gold_standard.xlsx>
+"Золотой стандарт": <https://github.com/kategavrishina/reference-russian-corpus/blob/main/gold_standard.xlsx>
 ____
 
 Данные **FrameBank** ресурса (<https://github.com/olesar/framebank>) в открытом доступе: <http://nlp.isa.ru/framebank_parser/> (для обучения использованы файлы annotated_corpus_fixed+syntaxnet.json и framebank_anno_ex_items_fixed.txt)
